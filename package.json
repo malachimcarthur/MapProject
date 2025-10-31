@@ -1,0 +1,16 @@
+{
+  "name": "mapproject",
+  "version": "1.0.0",
+  "description": "map project for my geo class",
+  "license": "ISC",
+  "author": "Malachi McArthur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
